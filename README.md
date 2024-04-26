@@ -2,6 +2,8 @@
 
 here is some bad screenshots. PRs always welcome.
 
+https://youtu.be/lsSDNtl-VA8
+
 ![image](https://github.com/mitsh/matrix-panilux-screensaver/assets/895798/84cc3b8a-6002-4b76-b260-03cb8def5b70)
 ![image](https://github.com/mitsh/matrix-panilux-screensaver/assets/895798/77c9d6f4-cd67-4896-9684-c567c259232a)
 
